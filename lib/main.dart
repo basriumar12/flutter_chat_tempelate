@@ -71,7 +71,7 @@ class ChatMessage extends StatelessWidget {
     );
   }
 }
-
+//chat page from google
 class ChatScreen extends StatefulWidget {
   @override
   State createState() => new ChatScreenState();
